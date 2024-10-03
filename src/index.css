@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #f0f0f0; /* Set your desired color */
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Ensure body takes full height */
+  overflow: hidden; 
+  color: black;/* Optional: Prevent scrolling */
+}
