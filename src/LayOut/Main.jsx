@@ -4,9 +4,8 @@ import Navbar from "../shared/Navbar/Navbar";
 
 const Main = () => {
     return (
-        <section className="">
+        <section className="l">
             <Navbar />
-
             <Outlet />
             <Footer />
         </section>
